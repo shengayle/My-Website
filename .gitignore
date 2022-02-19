@@ -1,8 +1,0 @@
-.env
-.venv
-*.pyc
-.DB_Store
-.idea
-__pycache__
-.vscode/
-flask_session
